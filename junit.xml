@@ -1,0 +1,109 @@
+<testsuites name="jest tests" tests="7" failures="7" time="1.437">
+  <testsuite name="undefined" errors="0" failures="7" skipped="0" timestamp="2022-01-09T16:44:41" time="1.437" tests="7">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="0.049">
+      <failure>Error: expect(received).toBe(expected)
+
+Expected value to be (using ===):
+  &quot;black&quot;
+Received:
+  &quot;&quot;
+    at Object.&lt;anonymous&gt; (/projects/challenge/src/App.test.js:15:62)
+    at Object.asyncFn (/projects/challenge/node_modules/jest-jasmine2/build/jasmine-async.js:68:30)
+    at /projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:38:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:31:21)
+    at /projects/challenge/node_modules/p-map/index.js:46:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)</failure>
+    </testcase>
+    <testcase classname=" click on color 1 changes the canvas color" name=" click on color 1 changes the canvas color" time="0.008">
+      <failure>Error: expect(received).toBe(expected)
+
+Expected value to be (using ===):
+  &quot;red&quot;
+Received:
+  &quot;&quot;
+    at Object.&lt;anonymous&gt; (/projects/challenge/src/App.test.js:29:62)
+    at Object.asyncFn (/projects/challenge/node_modules/jest-jasmine2/build/jasmine-async.js:68:30)
+    at /projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:38:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:31:21)
+    at /projects/challenge/node_modules/p-map/index.js:46:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)</failure>
+    </testcase>
+    <testcase classname=" click on color 2 changes the canvas color" name=" click on color 2 changes the canvas color" time="0.006">
+      <failure>Error: expect(received).toBe(expected)
+
+Expected value to be (using ===):
+  &quot;red&quot;
+Received:
+  &quot;&quot;
+    at Object.&lt;anonymous&gt; (/projects/challenge/src/App.test.js:45:62)
+    at Object.asyncFn (/projects/challenge/node_modules/jest-jasmine2/build/jasmine-async.js:68:30)
+    at /projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:38:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:31:21)
+    at /projects/challenge/node_modules/p-map/index.js:46:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)</failure>
+    </testcase>
+    <testcase classname=" click on color 3 changes the canvas color" name=" click on color 3 changes the canvas color" time="0.011">
+      <failure>Error: expect(received).toBe(expected)
+
+Expected value to be (using ===):
+  &quot;red&quot;
+Received:
+  &quot;&quot;
+    at Object.&lt;anonymous&gt; (/projects/challenge/src/App.test.js:61:62)
+    at Object.asyncFn (/projects/challenge/node_modules/jest-jasmine2/build/jasmine-async.js:68:30)
+    at /projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:38:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:31:21)
+    at /projects/challenge/node_modules/p-map/index.js:46:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)</failure>
+    </testcase>
+    <testcase classname=" click on color 4 changes the canvas color" name=" click on color 4 changes the canvas color" time="0.008">
+      <failure>Error: expect(received).toBe(expected)
+
+Expected value to be (using ===):
+  &quot;red&quot;
+Received:
+  &quot;&quot;
+    at Object.&lt;anonymous&gt; (/projects/challenge/src/App.test.js:77:62)
+    at Object.asyncFn (/projects/challenge/node_modules/jest-jasmine2/build/jasmine-async.js:68:30)
+    at /projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:38:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:31:21)
+    at /projects/challenge/node_modules/p-map/index.js:46:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)</failure>
+    </testcase>
+    <testcase classname=" click on color 5 changes the canvas color" name=" click on color 5 changes the canvas color" time="0.009">
+      <failure>Error: expect(received).toBe(expected)
+
+Expected value to be (using ===):
+  &quot;red&quot;
+Received:
+  &quot;&quot;
+    at Object.&lt;anonymous&gt; (/projects/challenge/src/App.test.js:93:62)
+    at Object.asyncFn (/projects/challenge/node_modules/jest-jasmine2/build/jasmine-async.js:68:30)
+    at /projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:38:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:31:21)
+    at /projects/challenge/node_modules/p-map/index.js:46:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)</failure>
+    </testcase>
+    <testcase classname=" click on color 6 changes the canvas color" name=" click on color 6 changes the canvas color" time="0.009">
+      <failure>Error: expect(received).toBe(expected)
+
+Expected value to be (using ===):
+  &quot;red&quot;
+Received:
+  &quot;&quot;
+    at Object.&lt;anonymous&gt; (/projects/challenge/src/App.test.js:109:62)
+    at Object.asyncFn (/projects/challenge/node_modules/jest-jasmine2/build/jasmine-async.js:68:30)
+    at /projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:38:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/projects/challenge/node_modules/jest-jasmine2/build/queueRunner.js:31:21)
+    at /projects/challenge/node_modules/p-map/index.js:46:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
